@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hkirat/real-time-chat.git"
+    "url": "git+https://github.com/zi78494umbcedu/RealTimeChat.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hkirat/real-time-chat/issues"
+    "url": "https://github.com/zi78494umbcedu/RealTimeChat/issues"
   },
-  "homepage": "https://github.com/hkirat/real-time-chat#readme",
+  "homepage": "https://github.com/zi78494umbcedu/RealTimeChat#readme",
   "dependencies": {
     "@types/websocket": "^1.0.10",
     "websocket": "^1.0.34",
